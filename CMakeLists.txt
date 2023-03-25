@@ -14,4 +14,3 @@ target_include_directories(${PROJECT_NAME}
     PRIVATE ${INCLUDE_DIR}
     PRIVATE ${SOURCES_DIR}
 )
-
